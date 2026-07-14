@@ -2,7 +2,7 @@
 
 ### About Me
 👨‍💻 Mobile, Web, & 2D Game Developer <br/>
-🎓 Studied Computer Science at the University of the Philippines Los Baños <br/>
+🎓 BS Computer Science Graduate, University of the Philippines Los Baños <br/>
 🌤️ Previously worked as an Intern at UP Resilience Institute under Project NOAH <br/>
 🧪 Currently working as a Mobile App Developer at BAJ Pharmaceuticals <br/>
 🗂️ Explore more of my projects in this [portfolio](https://seanconcepcion.vercel.app/) website <br/>
