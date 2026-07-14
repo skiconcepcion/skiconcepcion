@@ -13,11 +13,11 @@
 
 ### Projects
 - Nationwide Operational Assessment of Hazards (Project NOAH) &nbsp; | &nbsp; [website link](https://noah.up.edu.ph/)
-- BRICS: Booking and Reservation System of Institute of Computer Science &nbsp; | &nbsp; [website link](https://brics-alpha.vercel.app/) &nbsp; [github repo](https://github.com/SKIConcepcion/brics)
-- ARTISAN: Accessible Routing and Topology Interactive Simulation for Applied Networking &nbsp; | &nbsp; [apk link](https://drive.google.com/drive/folders/1Q-5oSe8tmkWURqOQ3q2WT7Ej-2bUuNs7?usp=sharing) &nbsp; [github repo](https://github.com/SeanConcepcion29/artisan)
+- BRICS: Booking and Reservation System of Institute of Computer Science &nbsp; | &nbsp; [website link](https://brics-alpha.vercel.app/) &nbsp; [github repo](https://github.com/skiconcepcion/brics)
+- ARTISAN: Accessible Routing and Topology Interactive Simulation for Applied Networking &nbsp; | &nbsp; [apk link](https://drive.google.com/drive/folders/1Q-5oSe8tmkWURqOQ3q2WT7Ej-2bUuNs7?usp=sharing)
 - Roamba: Sensor-Based Debris Sweeping Robot &nbsp; | &nbsp; [docs link](https://drive.google.com/drive/folders/1fw7EJLTt0KR1WuRggWEE7lcXpq9f9FSP) 
-- Monster Beside My Bed &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/monster-beside-my-bed) &nbsp; [github repo](https://github.com/SKIConcepcion/mbmb)
+- Monster Beside My Bed &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/monster-beside-my-bed) &nbsp; [github repo](https://github.com/skiconcepcion/mbmb)
 - BOATS (Boat in Ocean: Animation and Terrain Simulation) &nbsp; | &nbsp; [website link](https://seanconcepcion29.github.io/CMSC-161-BOATS/) &nbsp; [github repo](https://github.com/SeanConcepcion29/CMSC-161-BOATS)
-- Nor Crying, Nor Pain &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/nor-crying-nor-pain) &nbsp; [github repo](https://github.com/SKIConcepcion/ncnp)
-- Krizkhen Floral Design: Order & Inventory Management System &nbsp; | &nbsp; [website link](https://krizkhen-floral-design.vercel.app/) &nbsp; [github repo](https://github.com/SKIConcepcion/krizkhen)
-- Sa 'yo, Luna &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/sayo-luna) &nbsp; [github repo](https://github.com/SKIConcepcion/sayoluna)
+- Nor Crying, Nor Pain &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/nor-crying-nor-pain) &nbsp; [github repo](https://github.com/skiconcepcion/ncnp)
+- Krizkhen Floral Design: Order & Inventory Management System &nbsp; | &nbsp; [website link](https://krizkhen-floral-design.vercel.app/) &nbsp; [github repo](https://github.com/skiconcepcion/krizkhen)
+- Sa 'yo, Luna &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/sayo-luna) &nbsp; [github repo](https://github.com/skiconcepcion/sayoluna)
