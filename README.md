@@ -3,8 +3,9 @@
 ### About Me
 👨‍💻 Mobile, Web, & 2D Game Developer <br/>
 🎓 Studied Computer Science at the University of the Philippines Los Baños <br/>
-🌤️ Worked as an Intern at UP Resilience Institute under Project NOAH <br/>
-🗂️ Explore more of my projects in this [portfolio](https://seanconcepcion29.github.io/portfolio) website <br/>
+🌤️ Previously worked as an Intern at UP Resilience Institute under Project NOAH <br/>
+🧪 Currently working as a Mobile App Developer at BAJ Pharmaceuticals <br/>
+🗂️ Explore more of my projects in this [portfolio](https://seanconcepcion.vercel.app/) website <br/>
 🎮 Play some of my 2D games at my [Itch.io page](https://skiconcepcion.itch.io/) <br/>
 
 ### Main Skills
@@ -20,11 +21,3 @@
 - Nor Crying, Nor Pain &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/nor-crying-nor-pain) &nbsp; [github repo](https://github.com/SKIConcepcion/ncnp)
 - Krizkhen Floral Design: Order & Inventory Management System &nbsp; | &nbsp; [website link](https://krizkhen-floral-design.vercel.app/) &nbsp; [github repo](https://github.com/SKIConcepcion/krizkhen)
 - Sa 'yo, Luna &nbsp; | &nbsp; [itch.io link](https://skiconcepcion.itch.io/sayo-luna) &nbsp; [github repo](https://github.com/SKIConcepcion/sayoluna)
-
-
-### Certificates 
-
-<p align="start">
-  <img src="Best Presenter Certificate.png" width="400" />
-  <img src="UPRI Internship Certificate.png" width="400" />
-</p>
