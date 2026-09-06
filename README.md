@@ -1,4 +1,6 @@
-# Hello, I'm Sean Concepcion!
+<p align="center">
+  <img src="./github banner.png" alt="Sean Concepcion Banner" width="100%">
+</p>
 
 ### About Me
 👨‍💻 Mobile, Web, & 2D Game Developer <br/>
