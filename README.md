@@ -15,6 +15,8 @@
 
 ### Projects
 - Nationwide Operational Assessment of Hazards (Project NOAH) &nbsp; | &nbsp; [website link](https://noah.up.edu.ph/)
+- BAJ Pharmaceuticals Website &nbsp; | &nbsp; [website link](https://bajpharma.vercel.app/)
+- BOATS (Boat in Ocean: Animation and Terrain Simulation) &nbsp; | &nbsp; [website link](https://seanconcepcion29.github.io/CMSC-161-BOATS/)
 - BRICS: Booking and Reservation System of Institute of Computer Science &nbsp; | &nbsp; [website link](https://brics-alpha.vercel.app/) &nbsp; [github repo](https://github.com/skiconcepcion/brics)
 - ARTISAN: Accessible Routing and Topology Interactive Simulation for Applied Networking &nbsp; | &nbsp; [apk link](https://drive.google.com/drive/folders/1Q-5oSe8tmkWURqOQ3q2WT7Ej-2bUuNs7?usp=sharing)
 - Roamba: Sensor-Based Debris Sweeping Robot &nbsp; | &nbsp; [docs link](https://drive.google.com/drive/folders/1fw7EJLTt0KR1WuRggWEE7lcXpq9f9FSP) 
